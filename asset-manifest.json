@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keyboard-react/static/css/main.68e5151b.css",
+    "main.js": "/keyboard-react/static/js/main.51b201d1.js",
+    "static/js/538.767e3c3b.chunk.js": "/keyboard-react/static/js/538.767e3c3b.chunk.js",
+    "static/js/872.e968f26d.chunk.js": "/keyboard-react/static/js/872.e968f26d.chunk.js",
+    "static/js/227.d71fef40.chunk.js": "/keyboard-react/static/js/227.d71fef40.chunk.js",
+    "static/js/526.ffa6a5f0.chunk.js": "/keyboard-react/static/js/526.ffa6a5f0.chunk.js",
+    "static/js/232.b17dde43.chunk.js": "/keyboard-react/static/js/232.b17dde43.chunk.js",
+    "static/js/237.16a19c8f.chunk.js": "/keyboard-react/static/js/237.16a19c8f.chunk.js",
+    "index.html": "/keyboard-react/index.html",
+    "main.68e5151b.css.map": "/keyboard-react/static/css/main.68e5151b.css.map",
+    "main.51b201d1.js.map": "/keyboard-react/static/js/main.51b201d1.js.map",
+    "538.767e3c3b.chunk.js.map": "/keyboard-react/static/js/538.767e3c3b.chunk.js.map",
+    "872.e968f26d.chunk.js.map": "/keyboard-react/static/js/872.e968f26d.chunk.js.map",
+    "227.d71fef40.chunk.js.map": "/keyboard-react/static/js/227.d71fef40.chunk.js.map",
+    "526.ffa6a5f0.chunk.js.map": "/keyboard-react/static/js/526.ffa6a5f0.chunk.js.map",
+    "232.b17dde43.chunk.js.map": "/keyboard-react/static/js/232.b17dde43.chunk.js.map",
+    "237.16a19c8f.chunk.js.map": "/keyboard-react/static/js/237.16a19c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e5151b.css",
+    "static/js/main.51b201d1.js"
+  ]
+}
