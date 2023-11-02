@@ -1,0 +1,67 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+$primary: #06647e;
+
+$theme-colors: (
+  "primary": $primary,
+);
+
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-size: 140px;
+  font-weight: bolder;
+}
+.bar {
+  height: 100%;
+  width: 0%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: $primary;
+  z-index: -1;
+}
+.spline-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+// #part2 {
+//   width: 65%;
+// }
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #ededed;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #74fd68;
+}
+
+@keyframes text-jump {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
